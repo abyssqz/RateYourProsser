@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21232359338",
+    "project_id": "rateyourprosser-2e551",
+    "storage_bucket": "rateyourprosser-2e551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21232359338:android:bb131411c8a5a89571bdd3",
+        "android_client_info": {
+          "package_name": "com.cipher.rateyourprosser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21232359338-de9664hbtnhp2imokts8bhrm00qv00h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSuvWIzotiB_1agmE0WhCZiH2_-nHDUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21232359338-de9664hbtnhp2imokts8bhrm00qv00h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
